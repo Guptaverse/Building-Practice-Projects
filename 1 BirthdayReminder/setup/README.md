@@ -1,3 +1,7 @@
-## Idea
+To Run this Code locally 
+1.run command to install node modules : npm install
+2.npm start
+ 
+OR 
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Visit the project Just clicking live link : https://reminder4birthdays.netlify.app/
